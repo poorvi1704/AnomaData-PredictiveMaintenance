@@ -18,7 +18,7 @@ AnomaData: Automated Anomaly Detection for Predictive Maintenance is a project a
  Install Dependencies
   pip install -r requirements.txt
 
- Usage
+## Usage
 1. Run the main jupyter notebook to this project:
        /Notebook/Anomodata.ipynb
    
