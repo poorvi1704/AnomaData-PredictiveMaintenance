@@ -3,7 +3,7 @@
 AnomaData: Automated Anomaly Detection for Predictive Maintenance is a project aimed at predicting machine breakdowns by identifying anomalies in equipment data. This is crucial for various industries that rely on predictive maintenance to reduce risks and gain actionable insights from their machinery data. The dataset comprises over 18,000 rows collected over several days, with the target variable 'y' indicating anomalies (1 for anomaly, 0 for normal).
 
 ## Key Features
- Exploratory Data Analysis (EDA): 
+ *Exploratory Data Analysis (EDA)*: 
   Detailed analysis to understand data patterns, relationships, and trends.
 
  Data Cleaning: 
